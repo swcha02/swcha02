@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
+title: 중국유학생의 공부노트
 description: An easy to use blogging platform with support for Jupyter Notebooks.
 github_username: swcha02
 # you can comment the below line out if your repo name is not different than your baseurl
